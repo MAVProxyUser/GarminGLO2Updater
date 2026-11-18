@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Garmin firmware is Garmin's; don't commit it.
+*.rgn
+*.bin
+*.rgn.json
